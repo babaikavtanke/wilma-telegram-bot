@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]
+requests
+beautifulsoup4
+openai
+icalendar
+recurring-ical-events
